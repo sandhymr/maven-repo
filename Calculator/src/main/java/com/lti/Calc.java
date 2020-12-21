@@ -20,7 +20,7 @@ public class Calc {
 		System.out.println("Sum : "+add(30,40));
 		System.out.println("Difference : "+subs(90,80));
 		System.out.println("Product : "+prod(90,80));
-		System.out.println("Coeff : "+div(10,2));
+		System.out.println("Quotient : "+div(10,2));
 
 
 	}
